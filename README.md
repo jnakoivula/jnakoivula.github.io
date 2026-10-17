@@ -1,4 +1,4 @@
-# Joonas' Cloud Services Projects
+# My Cloud Services Projects
 
 I'm **Joonas**, a software engineering student at OAMK.
 
